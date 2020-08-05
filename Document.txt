@@ -1,0 +1,19 @@
+1.  Create Event with the help of admin credential 
+username: ochaudhary88@gmail.com
+password: om@12345
+
+2. For api receive and send data using curl using credentials
+$username = 'admin';
+$password = '1234';
+$apikey	= 'om@12345';
+
+3. Set your base url in confiq file $config['base_url']
+
+4. Views are setup in 2 different parts 
+admin and user
+
+5. Controller have 2 different section
+API code is in api folder
+Main controller is in controller file User.php
+
+
